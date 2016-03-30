@@ -7,7 +7,7 @@
         <location filename="../src/gui/about_dialog.cpp" line="93"/>
         <location filename="../src/gui/about_dialog.cpp" line="153"/>
         <source>About %1</source>
-        <translation>A propos de %1</translation>
+        <translationÀ propos de %1</translation>
     </message>
     <message>
         <location filename="../src/gui/about_dialog.cpp" line="161"/>
@@ -278,7 +278,7 @@
     <message>
         <location filename="../src/gui/color_dialog.cpp" line="45"/>
         <source>Edit map color</source>
-        <translation>Editer la palette des couleurs</translation>
+        <translation>Éditer la palette des couleurs</translation>
     </message>
     <message>
         <location filename="../src/gui/color_dialog.cpp" line="62"/>
@@ -515,7 +515,7 @@
     <message>
         <location filename="../src/symbol_combined.cpp" line="414"/>
         <source>Edit private symbol...</source>
-        <translation>Editer le symbole utilisé en combinaison ...</translation>
+        <translation>Éditer le symbole utilisé en combinaison ...</translation>
     </message>
     <message>
         <location filename="../src/symbol_combined.cpp" line="434"/>
@@ -1946,7 +1946,7 @@
     <message>
         <source>About %1</source>
         <comment>As in &apos;About OpenOrienteering Mapper&apos;</comment>
-        <translation type="vanished">A propos de %1</translation>
+        <translation type="vanished">À propos de %1</translation>
     </message>
     <message>
         <source>Recent maps</source>
@@ -1988,7 +1988,7 @@
         <location filename="../src/gui/widgets/home_screen_widget.cpp" line="159"/>
         <source>About %1</source>
         <comment>As in &apos;About OpenOrienteering Mapper&apos;</comment>
-        <translation>A propos de %1</translation>
+        <translation>À propos de %1</translation>
     </message>
     <message>
         <location filename="../src/gui/widgets/home_screen_widget.cpp" line="162"/>
@@ -2047,7 +2047,7 @@
     <message>
         <location filename="../src/gui/widgets/home_screen_widget.cpp" line="338"/>
         <source>About Mapper</source>
-        <translation>A propos de Mapper</translation>
+        <translation>À propos de Mapper</translation>
     </message>
     <message>
         <location filename="../src/gui/widgets/home_screen_widget.cpp" line="478"/>
@@ -2619,7 +2619,7 @@
     <message>
         <location filename="../src/gui/main_window.cpp" line="82"/>
         <source>About %1</source>
-        <translation>A propos de %1</translation>
+        <translation>À propos de %1</translation>
     </message>
 </context>
 <context>
@@ -2713,7 +2713,7 @@
     <message>
         <location filename="../src/gui/main_window.cpp" line="322"/>
         <source>&amp;About %1</source>
-        <translation>&amp;A propos de %1</translation>
+        <translation>&amp;À propos de %1</translation>
     </message>
     <message>
         <location filename="../src/gui/main_window.cpp" line="323"/>
@@ -2723,7 +2723,7 @@
     <message>
         <location filename="../src/gui/main_window.cpp" line="329"/>
         <source>About &amp;Qt</source>
-        <translation>A propos de &amp;Qt</translation>
+        <translation>À propos de &amp;Qt</translation>
     </message>
     <message>
         <location filename="../src/gui/main_window.cpp" line="330"/>
@@ -3155,7 +3155,7 @@ Voulez-vous redimensionner le fichier importé ?</translation>
     <message>
         <location filename="../src/map_editor.cpp" line="838"/>
         <source>Edit objects</source>
-        <translation>Editer des objets</translation>
+        <translation>Éditer des objets</translation>
     </message>
     <message>
         <location filename="../src/map_editor.cpp" line="840"/>
@@ -3185,7 +3185,7 @@ Voulez-vous redimensionner le fichier importé ?</translation>
     <message>
         <location filename="../src/map_editor.cpp" line="848"/>
         <source>Switch symbol</source>
-        <translation>Echanger le symbole</translation>
+        <translation>Échanger le symbole</translation>
     </message>
     <message>
         <location filename="../src/map_editor.cpp" line="849"/>
@@ -3283,7 +3283,7 @@ Voulez-vous redimensionner le fichier importé ?</translation>
     <message>
         <location filename="../src/map_editor.cpp" line="815"/>
         <source>Baseline view</source>
-        <translation>Afficher que les lignes de bases</translation>
+        <translation>Afficher uniquement les lignes de bases</translation>
     </message>
     <message>
         <location filename="../src/map_editor.cpp" line="816"/>
@@ -3710,7 +3710,7 @@ Voulez-vous redimensionner le fichier importé ?</translation>
     <message>
         <location filename="../src/map_editor.cpp" line="839"/>
         <source>Edit lines</source>
-        <translation>Editer des lignes</translation>
+        <translation>Éditer des lignes</translation>
     </message>
     <message>
         <location filename="../src/map_editor.cpp" line="844"/>
@@ -3816,7 +3816,7 @@ Voulez-vous redimensionner le fichier importé ?</translation>
         <location filename="../src/map_editor.cpp" line="912"/>
         <location filename="../src/map_editor.cpp" line="3413"/>
         <source>Add new part...</source>
-        <translation>Ajouter un nouvelle partie ...</translation>
+        <translation>Ajouter une nouvelle partie ...</translation>
     </message>
     <message>
         <location filename="../src/map_editor.cpp" line="913"/>
@@ -3870,7 +3870,7 @@ Voulez-vous redimensionner le fichier importé ?</translation>
     <message>
         <location filename="../src/map_editor.cpp" line="1217"/>
         <source>Show top bar</source>
-        <translation>Afficher le barre du haut</translation>
+        <translation>Afficher la barre du haut</translation>
     </message>
     <message>
         <location filename="../src/map_editor.cpp" line="1453"/>
@@ -4045,7 +4045,7 @@ sdélectionnés</translation>
     <message>
         <location filename="../src/map_editor.cpp" line="2215"/>
         <source>Switches the symbol of the selected object(s) to the selected symbol.</source>
-        <translation>Echanger le symbole de l&apos;objet sélectionné par le symbole sélectionné.</translation>
+        <translation>Échanger le symbole de l&apos;objet sélectionné par le symbole sélectionné.</translation>
     </message>
     <message>
         <location filename="../src/map_editor.cpp" line="2215"/>
@@ -4276,7 +4276,7 @@ Templates -&gt; Open template...</source>
 
 Commencez par dessiner ou charger un modèle.
 Pour charger un modèle, cliquez sur
-&quot;Modèles&quot; -&gt; &quot;Ouvrir modèle&quot;...</translation>
+&quot;Modèles&quot; -&gt; &quot;Ouvrir un modèle&quot;...</translation>
     </message>
     <message>
         <location filename="../src/map_widget.cpp" line="823"/>
@@ -4405,7 +4405,7 @@ zoomez en utilisant la molette de votre souris.</translation>
     <message>
         <location filename="../src/map_dialog_new.cpp" line="57"/>
         <source>Only show symbol sets matching the selected scale</source>
-        <translation>N&apos;afficher que les bibliothèques de symboles compatibles avec l&apos;échelle sélectionnée</translation>
+        <translation>N&apos;afficher uniquement les bibliothèques de symboles compatibles avec l&apos;échelle sélectionnée</translation>
     </message>
     <message>
         <location filename="../src/map_dialog_new.cpp" line="59"/>
@@ -5942,7 +5942,7 @@ des couleurs</translation>
     <message>
         <location filename="../src/gui/widgets/symbol_render_widget.cpp" line="236"/>
         <source>Edit</source>
-        <translation>Editer</translation>
+        <translation>Éditer</translation>
     </message>
     <message>
         <location filename="../src/gui/widgets/symbol_render_widget.cpp" line="237"/>
@@ -5972,7 +5972,7 @@ des couleurs</translation>
     <message>
         <location filename="../src/gui/widgets/symbol_render_widget.cpp" line="244"/>
         <source>Switch symbol of selected object(s)</source>
-        <translation>Echanger le symbole des objets sélectionnés</translation>
+        <translation>Échanger le symbole des objets sélectionnés</translation>
     </message>
     <message>
         <location filename="../src/gui/widgets/symbol_render_widget.cpp" line="245"/>
